@@ -1,9 +1,7 @@
 # Amal S Raj
 ## Curiousity, Romanticism, Hedonism
 
-You can use the [editor on GitHub](https://github.com/asr1191/asr1191.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, my name is Amal S Raj, and I like making beautiful things!
 
 ### Markdown
 
